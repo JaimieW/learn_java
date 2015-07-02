@@ -41,3 +41,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+build/tmp/jar/MANIFEST.MF
+*.bin
+build/test-results/TEST-generics.BoxTest.xml
+*.idx
+build/reports/tests/js/report.js
+*.html
+*.class
+.gradle/2.4/taskArtifacts/cache.properties
+*.jar
+build/reports/tests/css/base-style.css
+*.css
+.gradle/2.4/taskArtifacts/cache.properties.lock
+*.prefs
